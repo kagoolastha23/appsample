@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## Prerequisites
 - An existing Azure OpenAI resource and model deployment of a chat model (e.g. `gpt-35-turbo-16k`, `gpt-4`)
@@ -55,21 +56,7 @@ Please see the [section below](#add-an-identity-provider) for important informat
     - `AZURE_SEARCH_INDEX`
     - `AZURE_SEARCH_KEY`
 
-    These variables are optional:
-    - `AZURE_SEARCH_USE_SEMANTIC_SEARCH`
-    - `AZURE_SEARCH_SEMANTIC_SEARCH_CONFIG`
-    - `AZURE_SEARCH_INDEX_TOP_K`
-    - `AZURE_SEARCH_ENABLE_IN_DOMAIN`
-    - `AZURE_SEARCH_CONTENT_COLUMNS`
-    - `AZURE_SEARCH_FILENAME_COLUMN`
-    - `AZURE_SEARCH_TITLE_COLUMN`
-    - `AZURE_SEARCH_URL_COLUMN`
-    - `AZURE_SEARCH_VECTOR_COLUMNS`
-    - `AZURE_SEARCH_QUERY_TYPE`
-    - `AZURE_SEARCH_PERMITTED_GROUPS_COLUMN`
-    - `AZURE_SEARCH_STRICTNESS`
-    - `AZURE_OPENAI_EMBEDDING_NAME`
-
+    
 3. Start the app with `start.cmd`. This will build the frontend, install backend dependencies, and then start the app. Or, just run the backend in debug mode using the VSCode debug configuration in `.vscode/launch.json`.
 4. You can see the local running app at http://127.0.0.1:50505.
 
@@ -259,3 +246,6 @@ Any use of third-party trademarks or logos are subject to those third-party's po
 =======
 # samplemsftapp2
 >>>>>>> 4e83aef1ee5261faa4f126882df38fbca740d9ec
+=======
+# sampleappmsft1
+>>>>>>> 6fea5d38e49769f1e781367667f07f758b56430e
